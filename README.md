@@ -1,3 +1,2 @@
 battlestar
 ==========
-Project description
